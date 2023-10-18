@@ -1,5 +1,5 @@
 public class TypeCCharger {
     void chargeWithTypeC(){
-        System.out.println("charging android device");
+        System.out.println("charging...");
     }
 }
